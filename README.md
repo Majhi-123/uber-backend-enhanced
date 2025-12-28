@@ -135,5 +135,3 @@ This project is an Uber backend system implementation using Spring Boot, Postgre
     docker pull rupaldraft/uber-image:latest
     ```
 
-## Contact
-For any inquiries, please reach out to rupalpaultmsl@gmail.com.
